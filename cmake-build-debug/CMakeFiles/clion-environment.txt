@@ -1,0 +1,4 @@
+ToolSet: w64 7.0 (local)@C:\TDM-GCC-64
+Options: 
+
+Options:-DCMAKE_CXX_FLAGS=-Wall -Wextra -Werror -pedantic -pedantic-errors

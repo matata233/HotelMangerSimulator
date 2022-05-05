@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="cs213 (e8e092c1-a4e7-480f-b1ff-11bab9d34b90)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.adkKwzgmcW" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

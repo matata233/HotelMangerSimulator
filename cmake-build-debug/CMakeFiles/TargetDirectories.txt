@@ -1,0 +1,3 @@
+C:/Users/eriol/Desktop/summer2021/cpsc2150/ass/a1/cmake-build-debug/CMakeFiles/a1.dir
+C:/Users/eriol/Desktop/summer2021/cpsc2150/ass/a1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eriol/Desktop/summer2021/cpsc2150/ass/a1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
